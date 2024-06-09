@@ -3,5 +3,10 @@ test*
 old_2024*
 old_2025*
 
+#*egg-info
+#build
+#dist
+#core
+
 main.py
 
